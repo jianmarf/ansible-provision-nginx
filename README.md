@@ -7,5 +7,5 @@ provision/playbook.yml
 provision/roles/nginx/tasks/install-run-nginx.yml
 
 Deployment Steps:
-git clone
+git clone https://github.com/jianmarf/ansible-provision-nginx.git
 vagrant up
